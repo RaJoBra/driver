@@ -1,0 +1,16 @@
+{
+    "surname": "?!:",
+    "email": "email",
+    "newsletter": true,
+    "birthDate": "2018-01-01",
+    "homepage": "https://www.test.de",
+    "sex": "F",
+    "familyStatus": "M",
+    "car": [
+        "L"
+    ],
+    "adress": {
+        "zip": "1",
+        "place": "testPlace"
+    }
+}

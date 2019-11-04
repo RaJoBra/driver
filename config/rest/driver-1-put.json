@@ -1,0 +1,16 @@
+{
+    "surname": "Testput",
+    "email": "Theo@Test.de.put",
+    "newsletter": true,
+    "birthDate": "2018-01-01",
+    "homepage": "https://www.test.de",
+    "sex": "F",
+    "familyStatus": "S",
+    "car": [
+        "L"
+    ],
+    "adress": {
+        "zip": "12345",
+        "place": "testPlace"
+    }
+}
